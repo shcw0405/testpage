@@ -34,7 +34,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/ArticuChic_DSD/", // 添加与vite.config.js中相同的基础路径
+    basename: "/testpage/", // 添加与vite.config.js中相同的基础路径
   }
 );
 
